@@ -3,4 +3,7 @@ Tiene 17 años y nacion en Colombia.
 Hoy hablaremos de su historia.
 Version 1
 Version 2
+
+Master 1
+Master 2
 Estudio en el colegio Republica de China.
